@@ -8,3 +8,11 @@ When a gamer guesses the right number, the server sends the others a message tel
 # Example inside of game using telnet extension to create virtual gamers :
 
 ![image](https://user-images.githubusercontent.com/67378945/211424238-f2b9086c-c7cf-4d17-a98c-d1156580c1b5.png)
+
+# How use telnet :
+
+1 - Activet telnet extension in windows 
+
+2 - Open Command Prompt (cmd) and write this : telnet @IPServer Port
+
+![image](https://user-images.githubusercontent.com/67378945/211425082-5a2f798f-710e-4cab-9227-742fa92aa130.png)
